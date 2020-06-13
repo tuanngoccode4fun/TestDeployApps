@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btStart" Content="Version 1.0.0" FontSize="50" Foreground="BlueViolet" HorizontalAlignment="Left" Height="266" Margin="114,67,0,0" VerticalAlignment="Top" Width="550" Click="btStart_Click"/>
+        <Button x:Name="btStart" Content="Version 1.0.6" FontSize="50" Foreground="Black" HorizontalAlignment="Left" Height="266" Margin="114,67,0,0" VerticalAlignment="Top" Width="550" Click="btStart_Click"/>
 
     </Grid>
 </Window>
